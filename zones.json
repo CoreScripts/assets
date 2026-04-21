@@ -7072,5 +7072,14 @@
     "url": "{HTML_URL}/792.html",
     "author": "SYBO Games",
     "authorLink": "https://sybogames.com/"
-  }
+  },
+    {
+    "id": 793,
+    "name": "Trees Hate you",
+    "cover": "{COVER_URL}/793.png",
+    "url": "{HTML_URL}/793.html",
+    "author": "Tykenn",
+    "authorLink": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
+    "featured": true,
+    ]
 ]
