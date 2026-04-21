@@ -7081,5 +7081,14 @@
         "author": "Tykenn",
         "authorLink": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
         "featured": true
+    },
+    {
+        "id": 794,
+        "name": "Veck.io",
+        "cover": "{COVER_URL}/794.png",
+        "url": "{HTML_URL}/794.html",
+        "author": "",
+        "authorLink": "",
+        "featured": true
     }
 ]
