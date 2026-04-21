@@ -7064,5 +7064,13 @@
     "url": "{HTML_URL}/791.html",
     "author": "FunSpace",
     "authorLink": "https://www.minigame.io/"
+  },
+    {
+    "id": 792,
+    "name": "Subway Surfers New York",
+    "cover": "{COVER_URL}/792.png",
+    "url": "{HTML_URL}/792.html",
+    "author": "SYBO Games",
+    "authorLink": "https://sybogames.com/"
   }
 ]
