@@ -7097,6 +7097,14 @@
         "cover": "{COVER_URL}/795.png",
         "url": "{HTML_URL}/795.html",
         "author": "PixelJam",
+        "authorLink": "pixeljam.com",
+    },
+    {
+        "id": 796,
+        "name": "Dino Run DX",
+        "cover": "{COVER_URL}/796.png",
+        "url": "{HTML_URL}/796.html",
+        "author": "PixelJam",
         "authorLink": "pixeljam.com"
     }
 ]
