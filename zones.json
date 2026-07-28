@@ -1,9 +1,9 @@
 [
   {
     "id": -1,
-    "name": "[!] SUGGEST GAMES .gg/D4c9VFYWyU",
-    "cover": "{COVER_URL}/dc.png",
-    "url": "https://discord.gg/D4c9VFYWyU"
+    "name": "GOONGAMES2",
+    "cover": "{COVER_URL}/IMG_1241.png",
+    "url": "https://goongames2.vercel.app/"
   },
   {
     "id": 0,
@@ -5090,7 +5090,7 @@
   },
   {
     "id": 596,
-    "name": "[!] COMMENTS",
+    "name": "COMMENTS",
     "cover": "{COVER_URL}/596-uu.png",
     "url": "{HTML_URL}/596-u.html",
     "author": "gn-math",
